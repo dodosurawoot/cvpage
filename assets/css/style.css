@@ -1109,13 +1109,7 @@ section {
 body {
   background-color: #0e2431;
 
-/* Remove hero background image and use dark color */
-#hero {
-  background-image: none !important;
-  background: #0e2431 !important;
-}
-
-}
+/
 
 /* Hide travel category filter and items */
 #portfolio-flters li[data-filter=".filter-travel"],
