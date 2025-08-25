@@ -1106,11 +1106,7 @@ section {
 }
 
 /* Custom modifications by Surawoot - Dark theme and hide travel items */
-body {
-  background-color: #0e2431;
-
-/
-
+b
 /* Hide travel category filter and items */
 #portfolio-flters li[data-filter=".filter-travel"],
 .portfolio-item.filter-travel {
