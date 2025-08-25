@@ -1,0 +1,158 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 5967 >>
+stream
+BT
+/F1 10 Tf
+50 750 Td
+(Surawoot Krajangthong) Tj
+0 -14 Td
+(System/Cloud Engineer) Tj
+0 -14 Td
+(Bangkok, Thailand | LinkedIn: [linkedin.com/in/ksurawoot]\(https://www.linkedin.com/in/k-surawoot\) | GitHub: [github.com/dodosurawoot]\(https://github.com/dodosurawoot\) | GitLab: [gitlab.com/dodosurawoot]\(https://gitlab.com/dodosurawoot\)) Tj
+0 -14 Td
+(Professional Summary) Tj
+0 -14 Td
+(Seasoned professional with a strong background in Linux operating systems, cloud telephony and VMware technologies.) Tj
+0 -14 Td
+(Expert in designing and implementing unified communications solutions using 3CX and Avaya UC, including callflow design and IVR testing.) Tj
+0 -14 Td
+(Proficient with Amazon S3 object storage, Docker, openVAS, openVPN and project management.) Tj
+0 -14 Td
+(Proven ability to integrate legacy PBX systems with modern platforms and to optimise deployment processes through scripting and automation.) Tj
+0 -14 Td
+(Key Skills) Tj
+0 -14 Td
+(Unified communications design & PBX integration \(3CX, Avaya, Asterisk\)) Tj
+0 -14 Td
+(3CX callflow development & IVR testing) Tj
+0 -14 Td
+(Cloud telephony administration & virtualisation \(VMware, Docker, Amazon S3\)) Tj
+0 -14 Td
+(PBX deployment automation using Bash scripting) Tj
+0 -14 Td
+(SIP packet analysis & network troubleshooting) Tj
+0 -14 Td
+(Project coordination & crossfunctional team leadership) Tj
+0 -14 Td
+(SQL database integration & datadriven decision making) Tj
+0 -14 Td
+(API integration using Golang & Jirabased test management) Tj
+0 -14 Td
+(Network engineering and RF optimisation \(3G/4G, MIMO/FDD/TDD\)) Tj
+0 -14 Td
+(Fibreoptic & FTTx design and network hardware \(Cisco Switch/Router, Nokia CPE\)) Tj
+0 -14 Td
+(Professional Experience) Tj
+0 -14 Td
+(Senior System Engineer  Cloudsoft Co., Ltd. \(Apr 2025  Present\)) Tj
+0 -14 Td
+(Design and support unified communications solutions using 3CX and cloud telephony platforms.) Tj
+0 -14 Td
+(Lead integration of PBX systems with enterprise applications and oversee virtualisation and cloud infrastructure.) Tj
+0 -14 Td
+(Collaborate with crossfunctional teams to enhance system performance and reliability, providing technical guidance and troubleshooting.) Tj
+0 -14 Td
+(Network/System Engineer  Cloudsoft Co., Ltd. \(Oct 2021  Apr 2025\)) Tj
+0 -14 Td
+(Led IVR testing and orchestrated development and implementation of callflow solutions12812440056443screenshot.) Tj
+0 -14 Td
+(Oversaw integration of Salesforce with communication systems and maintained thorough documentation \(FSD/TSD\).) Tj
+0 -14 Td
+(Provided clients with regular updates on IVR testing progress and results.) Tj
+0 -14 Td
+(Reduced 3CX PBX server deployment time from 5 hours to 10 minutes using an optimised Bash script12812440056443screenshot.) Tj
+0 -14 Td
+(Integrated legacy PBX systems with 3CX PBX, Cisco CUCM, Asterisk and Genesys to improve interoperability12812440056443screenshot.) Tj
+0 -14 Td
+(Analysed SIP packets and troubleshot network and firewall issues to optimise communication systems12812440056443screenshot.) Tj
+0 -14 Td
+(Researched and developed solutions to enhance PBX reliability for large contact centres.) Tj
+0 -14 Td
+(Conducted training sessions for clients and operations teams on PBX functionality.) Tj
+0 -14 Td
+(Managed projects and coordinated with vendors and clients to ensure successful deployments12812440056443screenshot.) Tj
+0 -14 Td
+(Support Network Engineer \(NOC\)  Kirz Co., Ltd. \(Oct 2020  Aug 2021\)) Tj
+0 -14 Td
+(Monitored network operations and supported enterprise network infrastructure to maintain high availability and performance.) Tj
+0 -14 Td
+(Assisted in diagnosing and resolving network issues within the Network Operations Centre and coordinated with crossfunctional teams to ensure service continuity.) Tj
+0 -14 Td
+(Network Engineer  Axtentel IT Hardware Maintenance \(Feb 2020  Aug 2020\)) Tj
+0 -14 Td
+(Managed network infrastructure and maintenance for IT hardware, ensuring smooth operations for clients.) Tj
+0 -14 Td
+(Supported hardware upgrades and troubleshooting within telecommunications environments.) Tj
+0 -14 Td
+(Junior Network Engineer  Axtentel IT Hardware Maintenance \(Nov 2019  Feb 2020\)) Tj
+0 -14 Td
+(Assisted senior engineers in network maintenance and deployment tasks.) Tj
+0 -14 Td
+(Gained handson experience with network hardware and troubleshooting techniques.) Tj
+0 -14 Td
+(Support RF Engineer  Ericsson \(Oct 2018  Dec 2019\)) Tj
+0 -14 Td
+(Performed 3G/4G network optimisation including MIMO, FDD and TDD technologies850915004294902screenshot.) Tj
+0 -14 Td
+(Supported installation of cellular sites and collaborated with DTAC to ensure optimal network performance850915004294902screenshot.) Tj
+0 -14 Td
+(Project Engineer Trainee  Interlink Telecommunication \(Aug 2016  Jan 2017\)) Tj
+0 -14 Td
+(Participated in core assignments involving MapInfo, fibreoptic planning, network engineering and FTTx design79068115613050screenshot.) Tj
+0 -14 Td
+(Worked with Cisco switches/routers, Nokia CPE and NodeB equipment to support telecom projects79068115613050screenshot.) Tj
+0 -14 Td
+(Education) Tj
+0 -14 Td
+(Bachelor of Engineering in Electronic and Telecommunication  King Mongkuts University of Technology Thonburi \(Aug 2013  Jan 2017\)) Tj
+0 -14 Td
+(Activities: ABU Robocon 201579068115613050screenshot) Tj
+0 -14 Td
+(Certifications) Tj
+0 -14 Td
+(3CX Advanced Certified Engineer V18  3CX \(Issued Jan 2024\)815962888187020screenshot) Tj
+0 -14 Td
+(3CX Basic Certified Engineer  3CX \(Issued Jul 2022\)816019258120809screenshot) Tj
+0 -14 Td
+(Cloud Security & Session Initiation Protocol \(SIP\)815962888187020screenshot) Tj
+0 -14 Td
+(Manual Testing \(associated with Bash Script project\)) Tj
+0 -14 Td
+(Projects) Tj
+0 -14 Td
+(Bash Script  Developed a Bash script to automate deployment of a 3CX PBX server, reducing deployment time from hours to minutes12812440056443screenshot.) Tj
+0 -14 Td
+(Languages) Tj
+0 -14 Td
+(Thai  Native/Bilingual proficiency) Tj
+0 -14 Td
+(English  Intermediate proficiency) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000006260 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+6330
+%%EOF
