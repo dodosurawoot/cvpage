@@ -1104,3 +1104,14 @@ section {
     padding-right: 20px 15px;
   }
 }
+
+/* Custom modifications by Surawoot - Dark theme and hide travel items */
+body {
+  background-color: #0e2431;
+}
+
+/* Hide travel category filter and items */
+#portfolio-flters li[data-filter=".filter-travel"],
+.portfolio-item.filter-travel {
+  display: none !important;
+}
