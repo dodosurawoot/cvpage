@@ -66,6 +66,22 @@ h6 {
   opacity: 1;
 }
 
+.img-wrapper {
+  aspect-ratio: 3 / 2;
+  width: 100%;               /* ขยายเต็มความกว้างคอลัมน์ */
+  max-width: 400px;          /* กำหนดขนาดสูงสุดตามต้องการ */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;          /* ตัดส่วนเกินออก */
+}
+
+.img-wrapper img {
+  height: 100%;
+  width: auto;
+  object-fit: cover;         /* ครอบรูปให้เต็ม 3:2 โดยไม่ผิดสัดส่วน */
+}
+
 /*--------------------------------------------------------------
 # Header
 --------------------------------------------------------------*/
