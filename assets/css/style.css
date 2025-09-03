@@ -109,10 +109,10 @@ h6 {
 #header .profile .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #212431;
+  background: #fff;
   color: #fff;
   line-height: 1;
-  padding: 8px 0;
+  padding: 4px 0;
   margin-right: 4px;
   border-radius: 50%;
   text-align: center;
