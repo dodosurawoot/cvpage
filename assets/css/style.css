@@ -67,19 +67,20 @@ h6 {
 }
 
 .img-wrapper {
-  aspect-ratio: 3 / 2;
-  width: 100%;               /* ขยายเต็มความกว้างคอลัมน์ */
-  max-width: 400px;          /* กำหนดขนาดสูงสุดตามต้องการ */
+  aspect-ratio: 3 / 2;        /* กำหนดสัดส่วน 3:2 */
+  width: 100%;                /* ให้เต็มคอลัมน์ */
+  max-width: 300px;           /* กำหนดขนาดสูงสุด */
   display: flex;
   justify-content: center;
   align-items: center;
-  overflow: hidden;          /* ตัดส่วนเกินออก */
+  overflow: hidden;           /* ตัดส่วนเกินออก */
 }
 
 .img-wrapper img {
+  width: 100%;
   height: 100%;
-  width: auto;
-  object-fit: cover;         /* ครอบรูปให้เต็ม 3:2 โดยไม่ผิดสัดส่วน */
+  object-fit: cover;          /* ครอบรูปให้เต็มสัดส่วน */
+  border-radius: 8px;         /* ถ้าอยากให้มุมมน */
 }
 
 /*--------------------------------------------------------------
